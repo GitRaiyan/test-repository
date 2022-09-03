@@ -7,3 +7,5 @@ to create and push code on git
 3. git commit -m "your message"
 
 4. git branch -M main
+
+5. git push -u origin <branch name>
